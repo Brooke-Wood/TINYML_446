@@ -21,9 +21,7 @@ ARR/Programs
 >>Used to preprocess a single image to make it ready for classification 
 
 ARR/Data
->Resistor_Data_Original.zip
->>Full compilation of photos collected for this project. Taken on an iPhone 17 camera. 
-  All images are in folders named after their ohm rating
+(The original dataset was too large to upload to github. Find it here: https://www.kaggle.com/datasets/brookewooduw/resistor-photos-215 )
 >Resistor_Data_Cropped.zip
->>Same as _Original.zip, except the images have been edited by the bulk autocropper program.
+>>images that have been edited by the bulk autocropper program.
   A handful of images that "failed" the process were left out
